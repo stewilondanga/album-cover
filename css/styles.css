@@ -137,14 +137,14 @@ img:hover {
   height: 30px
 }
 
-/*			.year{
-				line-height: 250%;
-				font-family: sans-serif;
-				font-weight: bold;
-				font-size: 50px;
-			}
+.year {
+  line-height: 250%;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+}
 
-
+/*
 
 
 #contact h1 {
