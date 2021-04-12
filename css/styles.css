@@ -114,11 +114,11 @@ img {
   border-radius: 10px
 }
 
-/*
-			img:hover{
-				box-shadow: 0px 10px 4vw 0px silver;
-			}
+img:hover {
+  box-shadow: 0px 10px 4vw 0px silver;
+}
 
+/*
 			.album{
 				font-family: sans-serif;
 				font-weight: bold;
