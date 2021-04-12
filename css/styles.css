@@ -107,6 +107,54 @@ body {
   transition-delay: 0.4s;
 }
 
+
+			table{
+				/*border-collapse: collapse;*/
+				border-spacing: 6vw 0px;
+				margin: auto;
+			}
+
+			td{
+				/*border: 1px solid grey;*/
+				text-align: left;
+			}
+
+			img{
+				box-shadow: 0px 5px 3vw 0px silver;
+				height: 200px;
+				border-radius: 10px
+			}
+
+			img:hover{
+				box-shadow: 0px 10px 4vw 0px silver;
+			}
+
+			.album{
+				font-family: sans-serif;
+				font-weight: bold;
+				/*line-height: 50px;*/
+			}
+			.artist{
+				font-family: sans-serif;
+				font-size: 14px;
+				color: grey;
+			}
+			.smallSpacer td{
+				height: 5px
+			}
+			.largeSpacer td{
+				height: 30px
+			}
+			.year{
+				line-height: 250%;
+				font-family: sans-serif;
+				font-weight: bold;
+				font-size: 50px;
+			}
+
+
+
+
 #contact h1 {
   font-family: helvetica;
   font-weight: normal;
