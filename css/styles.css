@@ -99,13 +99,12 @@
   transition-delay: 0.4s;
 }
 
+table {
+  border-spacing: 6vw 0px;
+  margin: auto;
+}
+
 /*
-			table{
-
-				border-spacing: 6vw 0px;
-				margin: auto;
-			}
-
 			td{
 
 				text-align: left;
