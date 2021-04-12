@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -109,13 +109,13 @@ body {
 
 
 			table{
-				/*border-collapse: collapse;*/
+
 				border-spacing: 6vw 0px;
 				margin: auto;
 			}
 
 			td{
-				/*border: 1px solid grey;*/
+
 				text-align: left;
 			}
 
@@ -132,7 +132,7 @@ body {
 			.album{
 				font-family: sans-serif;
 				font-weight: bold;
-				/*line-height: 50px;*/
+
 			}
 			.artist{
 				font-family: sans-serif;
