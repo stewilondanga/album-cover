@@ -123,12 +123,13 @@ img:hover {
   font-weight: bold;
 }
 
-/*		.artist{
-				font-family: sans-serif;
-				font-size: 14px;
-				color: grey;
-			}
-			.smallSpacer td{
+.artist {
+  font-family: sans-serif;
+  font-size: 14px;
+  color: grey;
+}
+
+/*			.smallSpacer td{
 				height: 5px
 			}
 			.largeSpacer td{
