@@ -129,10 +129,11 @@ img:hover {
   color: grey;
 }
 
-/*			.smallSpacer td{
-				height: 5px
-			}
-			.largeSpacer td{
+.smallSpacer td {
+  height: 5px
+}
+
+/*		.largeSpacer td{
 				height: 30px
 			}
 			.year{
